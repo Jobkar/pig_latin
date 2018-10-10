@@ -1,4 +1,4 @@
-# pig_latin
+# Pig Latin
 
 Ancay youyay eakspay igpay atinlay? (Can you speak pig latin?) If you can’t, here are the rules:
 
